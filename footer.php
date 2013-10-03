@@ -14,7 +14,7 @@
 				<p>Brought to you by the good folks at Twitter and Zurb and cobbled together by the UX team at Digital First Media.</p>
 				<p>Original project links:<span class="divider"></span><a href="http://getbootstrap.com/">Bootstrap</a> <span class="divider">|</span> <a href="http://foundation.zurb.com/">Foundation</a><span class="divider">|</span><a href="http://sandbox.digitalfirstmedia.com/strapit/">Strapit Documentation</a></p>
 			    <ul class="footer-links">
-			      <li>Currently v2.0.0</li>
+			      <li>Currently v2.0.1</li>
 			      <!-- <li class="muted">&middot;</li>
 			      <li><a href="https://github.com/jboho/strapit/issues?state=open">Issues</a></li>
 			      <li class="muted">&middot;</li>
